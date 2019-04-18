@@ -1,2 +1,2 @@
-# regex_notebook
-Notebook de introdução às Expressões Regulares (Regex)
+# Introdução ao Regex
+Notebook de introdução às Expressões Regulares (Regex).
